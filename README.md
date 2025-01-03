@@ -1,4 +1,4 @@
-![Neutral Creative Professional LinkedIn Article Cover Image-2]((https://github.com/GowthamB2001/GowthamB2001/blob/main/images-194.jpeg))
+![Neutral Creative Professional LinkedIn Article Cover Image-2](https://github.com/GowthamB2001/GowthamB2001/blob/main/Brown%20%26%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner.png)
 # 🎉 Gotham B | .NET Developer 🎉
 
 ### 🚀 Objective
