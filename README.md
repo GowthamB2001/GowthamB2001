@@ -1,4 +1,5 @@
-![Neutral Creative Professional LinkedIn Article Cover Image-2](https://github.com/GowthamB2001/GowthamB2001/blob/main/Brown%20%26%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner.png)
+![DotNet Banner](https://github.com/GowthamB2001/GowthamB2001/blob/main/Brown%20%26%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner.png)
+
 # 🎉 Gotham B | .NET Developer 🎉
 
 ### 🚀 Objective
@@ -9,18 +10,24 @@ Results-driven **ASP.NET Developer** with expertise in building dynamic web appl
 ### 🛠️ Skills
 
 #### **Programming Languages:**
-![C#](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/C_Sharp_logo.svg/512px-C_Sharp_logo.svg.png)
-![HTML5](https://upload.wikimedia.org/wikipedia/commons/5/5c/HTML5_Logo_256.png)
-![CSS3](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+- ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 #### **Frameworks:**
-![.NET Framework](https://upload.wikimedia.org/wikipedia/commons/4/4e/.NET_Logo.png)
-![ASP.NET](https://upload.wikimedia.org/wikipedia/commons/a/a9/Asp.net_logo.svg)
+- ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
+- ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=aspnet&logoColor=white)
+- ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-86B6F2?style=flat&logo=entity-framework&logoColor=black)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+#### **Databases:**
+- ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 #### **Development Tools:**
-![Visual Studio](https://upload.wikimedia.org/wikipedia/commons/2/23/Visual_Studio_2019_Logo.svg)
-![Git](https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg)
+- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
@@ -46,15 +53,16 @@ Results-driven **ASP.NET Developer** with expertise in building dynamic web appl
 
 **Projects:**
 - **NATCO**  
-  - **Product Management**: Add, edit, and delete products with SKU, price, and stock levels.  
-  - **Sales Tracking**: Record sales and update inventory in real-time.  
-  - **Inventory Alerts**: Notifications for low-stock products to ensure timely restocking.
-
+  - Product Management, Sales Tracking, Inventory Alerts.
 - **EPMS**  
-  - **CRUD Operations**: Efficient management of Municipality, Ward, Department, and Unit with full CRUD functionality.  
-  - **Responsive UI**: User-friendly interface built with Bootstrap for seamless experience across devices.  
-  - **SQL Database**: Reliable data storage and management using SQL for handling inventory and transactions.
+  - CRUD Operations, Responsive UI, SQL Database.
 
 ---
 
 ### 🚀 Let's Connect and Build Something Amazing Together! 💥
+
+---
+
+### 📧 Contact Me:
+- Email: [gowthambabu1080@gmail.com](mailto:gowthambabu1080@gmail.com)
+- LinkedIn: [Gotham B LinkedIn](https://www.linkedin.com/in/gowtham-b-a3218723b/)
