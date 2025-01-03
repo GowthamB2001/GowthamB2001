@@ -10,7 +10,7 @@ Results-driven **ASP.NET Developer** with expertise in building dynamic web appl
 ---
 
 ### 🛠️ Skills
-
+ ![DotNet Banner]
 #### **Programming Languages:**
 - ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
