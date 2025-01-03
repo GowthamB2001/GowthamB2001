@@ -1,4 +1,4 @@
-![DotNet Banner](https://github.com/GowthamB2001/GowthamB2001/blob/main/Brown%20%26%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner.png)
+![DotNet Banner](https://github.com/GowthamB2001/GowthamB2001/blob/main/Brown%20%26%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner.gif)
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F79C22&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Experience+Web+Applications!;Transform+concepts+into+View!)
 
  
@@ -68,3 +68,4 @@ Results-driven **ASP.NET Developer** with expertise in building dynamic web appl
 ### 📧 Contact Me:
 - Email: [gowthambabu1080@gmail.com](mailto:gowthambabu1080@gmail.com)
 - LinkedIn: [Gotham B LinkedIn](https://www.linkedin.com/in/gowtham-b-a3218723b/)
+![EndTitle Banner](https://github.com/GowthamB2001/GowthamB2001/blob/main/Brown%20%26%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner.gif)
