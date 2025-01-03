@@ -1,6 +1,8 @@
-![DotNet Banner](https://github.com/GowthamB2001/GowthamB2001/blob/main/Brown%20%26%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner.png)
 
-# 🎉 Gotham B | .NET Developer 🎉
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F79C22&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Experience+Web+Applications!;Transform+concepts+into+View!)
+
+ 
+
 
 ### 🚀 Objective
 Results-driven **ASP.NET Developer** with expertise in building dynamic web applications and scalable solutions. Skilled in **ASP.NET** framework, **database management**, and collaborative development. Committed to delivering high-performance projects on time and contributing to organizational growth.
