@@ -39,8 +39,7 @@ Results-driven **ASP.NET Developer** with expertise in building dynamic web appl
 
 - **MCA(CA)** - 8.5 CGPA, **Dr.MGR University** (2021 - 2023)
 - **BSc(CS)** - 8.5 CGPA, **S.I.A.S College** (2018 - 2021)
-- **H.S.C** - 75%, **Govt Boys Hr Sec School** (2016 - 2018)
-- **S.S.L.C** - 88%, **Govt Hr Sec School** (2015 - 2016)
+
 
 ---
 
@@ -69,7 +68,7 @@ Results-driven **ASP.NET Developer** with expertise in building dynamic web appl
 
 ### 📧 Contact Me:
 - Email: [gowthambabu1080@gmail.com](mailto:gowthambabu1080@gmail.com)
-- LinkedIn: [Gotham B LinkedIn](https://www.linkedin.com/in/gowtham-b-a3218723b/)
+- LinkedIn: [Gowtham B LinkedIn](https://www.linkedin.com/in/gowtham-b-a3218723b/)
 
 
 
