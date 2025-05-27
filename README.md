@@ -52,7 +52,7 @@ Results-driven **ASP.NET Developer** with expertise in building dynamic web appl
 ### 💼 Experience
 
 #### **Toqsoft Technologies** | Bengaluru, India  
-**.NET Developer** (March 2023 - Present)
+**.NET Developer** (March 2024 - Present)
 
 **Projects:**
 - **NATCO**  
